@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/1.jpeg'>
+    <box top='1271' left='1712' width='1125' height='479'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/2.jpeg'>
+    <box top='1239' left='1578' width='1116' height='494'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/3.jpeg'>
+    <box top='1139' left='2071' width='1120' height='601'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/4.jpeg'>
+    <box top='1188' left='2412' width='683' height='624'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/5.jpeg'>
+    <box top='1258' left='2332' width='604' height='626'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/ID/6.jpeg'>
+    <box top='1161' left='1956' width='1056' height='596'/>
+  </image>
+</images>
+</dataset>

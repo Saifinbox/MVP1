@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/1.jpeg'>
+    <box top='276' left='71' width='561' height='315'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/10.jpeg'>
+    <box top='652' left='139' width='527' height='248'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/11.jpeg'>
+    <box top='347' left='10' width='426' height='365'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/2.jpeg'>
+    <box top='551' left='330' width='470' height='227'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/3.jpeg'>
+    <box top='368' left='77' width='401' height='259'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/4.jpeg'>
+    <box top='338' left='880' width='320' height='255'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/5.jpeg'>
+    <box top='289' left='291' width='618' height='356'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/6.jpeg'>
+    <box top='325' left='734' width='433' height='295'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/7.jpeg'>
+    <box top='68' left='304' width='441' height='382'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/8.jpeg'>
+    <box top='157' left='279' width='610' height='345'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/9.jpeg'>
+    <box top='223' left='578' width='609' height='356'/>
+  </image>
+</images>
+</dataset>

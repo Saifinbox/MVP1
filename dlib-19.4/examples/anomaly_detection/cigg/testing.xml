@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/cigg/1.jpeg'>
+    <box top='1091' left='2343' width='457' height='634'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/cigg/2.jpeg'>
+    <box top='1328' left='3012' width='869' height='631'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/cigg/3.jpeg'>
+    <box top='1139' left='2068' width='772' height='538'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/cigg/4.jpeg'>
+    <box top='1224' left='1997' width='618' height='450'/>
+  </image>
+  <image file='/home/inbox-dih/dlib-19.4/examples/anomaly_detection/cigg/5.jpeg'>
+    <box top='1214' left='2004' width='595' height='447'/>
+  </image>
+</images>
+</dataset>
